@@ -6,7 +6,7 @@
   "doi": "",
   "language": "de",
   "orientation": "landscape",
-  "title": "U S A :  L a n d w i r t s c h a f t  a l s  F l ä c h e n f l u c h",
+  "title": "USA :  Landwirtschaft als Flächenfluch",
   "abstract": "Landwirtschaft, Wasserknappheit, Erosion, Agrophotovoltaik",
   "authors": [
     {
@@ -35,9 +35,9 @@
     "end": 2022
   },
   "keywords": [],
-  "pdf": "https://globalchanges.github.io/MetaData2024/9000/poster.pdf",
-  "thumbnail": "https://globalchanges.github.io/MetaData2024/9000/thumbnail.png",
-  "icon": "https://globalchanges.github.io/MetaData2024/9000/icon.png",
-  "tiles": "https://globalchanges.github.io/MetaData2024/9000/tiles.dzi",
+  "pdf": "https://globalchanges.github.io/Invisible2024/9000/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2024/9000/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2024/9000/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2024/9000/tiles.dzi",
   "sources": []
 }
