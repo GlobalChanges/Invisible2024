@@ -1,0 +1,43 @@
+{
+  "id": "9001",
+  "year": "2024",
+  "freidok": "",
+  "issue": "9001",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "US Finance System",
+  "abstract": "",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Joschua",
+      "name": "Baum",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 40.7,
+    "longitude": -74.0,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Konsum",
+  "subtopic": "Ressourcen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2024/9001/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2024/9001/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2024/9001/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2024/9001/tiles.dzi",
+  "sources": []
+}
